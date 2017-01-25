@@ -1,0 +1,6 @@
+Category   Title      Price  Amount
+movement   snowboard  1000   25
+movement   skates     800    35
+movement   skiing     100    50
+outfit     mask       150    0
+outfit     helmet     300    450
